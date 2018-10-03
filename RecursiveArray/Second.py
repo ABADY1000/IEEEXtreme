@@ -1,4 +1,6 @@
 
+# Abdullah 
+# Not a good solution
 
 def ListGenerator(lis):
 
