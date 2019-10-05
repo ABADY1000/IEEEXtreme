@@ -1,0 +1,4 @@
+D:\Programming\SnakeAndLadder\obj\Debug\netcoreapp2.0\SnakeAndLadder.csprojAssemblyReference.cache
+D:\Programming\SnakeAndLadder\obj\Debug\netcoreapp2.0\SnakeAndLadder.csproj.CoreCompileInputs.cache
+D:\Programming\SnakeAndLadder\obj\Debug\netcoreapp2.0\SnakeAndLadder.AssemblyInfoInputs.cache
+D:\Programming\SnakeAndLadder\obj\Debug\netcoreapp2.0\SnakeAndLadder.AssemblyInfo.cs
